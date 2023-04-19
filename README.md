@@ -1,8 +1,7 @@
-<center>
-# Hello, I'm Dávid 👋<br>
-I'm a Programmer with 6 years of experience. I'm passionate about learning new programming languages, and I'm always looking to learn more.
+# <center>Hello, I'm Dávid 👋</center><br>
+<center>I'm a Programmer with 6 years of experience. I'm passionate about learning new programming languages, and I'm always looking to learn more.</center>
 <br>
-# 🔭 Current Projects<br>
+# <center>🔭 Current Projects</center><br>
 [HugDay Web](https://hugday.sk)
 <br>
 # 📫 Get in touch<br>
@@ -16,5 +15,3 @@ I love chess.
 <br>
 
 ![Dávid Malich's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusChrist69&show_icons=true&count_private=true&hide_border=true&theme=radical)
-
-  </center>
