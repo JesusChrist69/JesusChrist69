@@ -15,6 +15,8 @@ Email: [kontakt@davidmalich.eu](mailto:kontakt@davidmalich.eu)
   <h1>📊 Github Stats</h1>
 
 ![Dávid Malich's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusChrist69&show_icons=true&count_private=true&hide_border=true&theme=radical)
+  <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusChrist69)](https://github.com/JesusChrist69/github-readme-stats)
-  
+  <br>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JesusChrist69)](https://github.com/JesusChrist69/github-readme-stats)
   </div>
