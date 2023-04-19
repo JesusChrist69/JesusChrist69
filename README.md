@@ -1,16 +1,16 @@
-# <center>Hello, I'm Dávid 👋</center><br>
-<center>I'm a Programmer with 6 years of experience. I'm passionate about learning new programming languages, and I'm always looking to learn more.</center>
-<br>
-# <center>🔭 Current Projects</center><br>
+# Hello, I'm Dávid 👋<br>
+I'm a Programmer with 6 years of experience. I'm passionate about learning new programming languages, and I'm always looking to learn more.
+<br><br>
+# 🔭 Current Projects<br>
 [HugDay Web](https://hugday.sk)
-<br>
+<br><br>
 # 📫 Get in touch<br>
 Instagram: [david.malich2](https://www.instagram.com/david.malich2/)<br>
 Email: [kontakt@davidmalich.eu](mailto:kontakt@davidmalich.eu)
-<br>
+<br><br>
 # ⚡ Fun fact<br>
 I love chess.
-<br>
+<br><br>
 # 📊 Github Stats
 <br>
 
